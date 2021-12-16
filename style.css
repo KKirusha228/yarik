@@ -1,0 +1,53 @@
+.gb {
+    padding: 100px 100px;
+}
+button {
+    padding: 50px 50px;
+    color: tomato;
+}
+.g {
+    background:  url(pudged2-dance.gif) no-repeat center center fixed;;
+    background-size: cover;
+    text-align: center;
+}
+.d {
+    background:  url(пудж.jpg);
+    background-size: cover;
+}
+.v {
+    background:  url(да.jpg);
+    background-size: cover;
+}
+img {
+    opacity: 0.85;
+    height: 400px;
+    width: 400px;
+}
+body {
+    opacity: 0.9;
+    color: tomato;
+}
+.y {
+    background:  url(Шлёпа.jpg);
+    background-size: cover;
+}
+.bodyv {
+    background:  url(форвиталик.gif);
+    background-size: cover;
+}
+.bodyd {
+    background:  url(димагуль.gif) no-repeat center center fixed;;
+    background-size: cover;
+}
+.bodyy {
+    background:  url(котэк.gif) no-repeat center center fixed;;
+    background-size: cover;
+}
+.mb {
+    background:  url(бест.gif);
+    background-size: cover;
+}
+table {
+    margin: 0 auto;
+    width: 70%;
+}
